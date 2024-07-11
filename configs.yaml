@@ -1,0 +1,3 @@
+container_gpu_exporter:
+  exporter_port: 9910
+  detecting_interval: 3
